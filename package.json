@@ -6,7 +6,6 @@
     "body-parser": "~1.9.3",
     "express": "4.10.3",
     "jsonwebtoken": "^5.4.1",
-    "mongoose": "~3.8.19",
     "morgan": "~1.5.0"
   },
   "scripts": {
@@ -14,6 +13,6 @@
   },
   "description": "node server with basic routes ('/api', '/user/:user', '/users' and '/admin' that handles tokens",
   "version": "1.0.0",
-  "author": "",
-  "license": "ISC"
+  "author": "Team Hobblit",
+  "license": "Private"
 }
