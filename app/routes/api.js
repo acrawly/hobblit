@@ -111,7 +111,7 @@ apiRouter.get('/', function(req, res){
 apiRouter.route('/users')
     
     //create a user (accessed at POST http://localhost:8080/api/users)
-    .post(function(req, res){
+    .post(function(req, res) {
         
         //create a new instance of the User model
         var user = new User();
